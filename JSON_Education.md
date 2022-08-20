@@ -1,3 +1,5 @@
+문서정보 : 2022.08.20. 작성, 작성자 [@SAgiKPJH](https://github.com/SAgiKPJH)
+
 # **JSON**
 
 -  JavaScript Object Notation(JSON)은 데이터 교환 포맷으로써, 인터넷에서 자료를 주고 받을 때 그 자료를 표현하는 방법으로 알려진 개방형 표준 포맷이다.
