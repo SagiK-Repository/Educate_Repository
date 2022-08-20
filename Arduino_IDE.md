@@ -1,4 +1,4 @@
-문서정보 : 2022.08.20. 작성, 작성자 [@SAgiKPJH](https://github.com/SAgiKPJH)
+문서정보 : 2022.08.20. (원본 2022.08.13. 작성) 작성, 작성자 [@SAgiKPJH](https://github.com/SAgiKPJH)
 
 
 # **Arduino IDE**
