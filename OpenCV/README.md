@@ -1,4 +1,4 @@
-문서정보 : 2022.08.25.~ 작성, 작성자 @SAgiKPJH
+문서정보 : 2022.08.25.~ 작성, 작성자 [@SAgiKPJH](https://github.com/SAgiKPJH)
 
 
 # OpenCV 기본틀 사용 방법
