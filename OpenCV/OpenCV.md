@@ -22,6 +22,14 @@
    라이브러리 디렉터리 | C:\opencv453\build\x64\vc15\lib
    링커->입력->추가종속성 | opencv_world453d.lib or opencv_world453.lib
    디버깅->환경 | PATH=C:\opencv453\build\x64\vc15\bin;%PATH%
+   ```cpp
+   // 또는 다음과 같이 추가종속성을 입력한다.
+   #ifdef _DEBUG
+   #pragma comment(lib,"opencv_world453d.lib")
+   #else
+   #pragma comment(lib,"opencv_world453.lib")
+   #endif
+   ```
 4. 아래 내용을 cpp 코딩 또는 헤더에 넣고 디버깅되면 사용준비 끝이다.  
    ```cpp
    #include <opencv2/opencv.hpp>
